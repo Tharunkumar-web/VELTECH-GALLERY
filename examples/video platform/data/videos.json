@@ -13,6 +13,14 @@
         "url": "https://tharunkumar-web.github.io/VELTECH-GALLERY/examples/video%20platform/videos/saa.mp4",
         "vr": true,
         "vrRotate": 270,
+     } ,
+    {
+        "id": 6,
+        "title": "fest",
+        "thumbnail": "https://tharunkumar-web.github.io/VELTECH-GALLERY/examples/video%20platform/videos/saa.jpg",
+        "url": "https://tharunkumar-web.github.io/VELTECH-GALLERY/examples/video%20platform/videos/saa.mp4",
+        "vr": true,
+        "vrRotate": 0,
      }
   
 ]
