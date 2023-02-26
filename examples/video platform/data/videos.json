@@ -49,8 +49,8 @@
     }, {
         "id": 4,
         "title": "VELTECH AR-GALLERY,
-        "thumbnail": "https://tharunkumar-web.github.io/VELTECH-GALLERY/examples/video%20platform/videos/saa.mp4",
-        "url": "./videos/saa.mp4",
+        "thumbnail": "https://tharunkumar-web.github.io/VELTECH-GALLERY/examples/video%20platform/videos/saa.jpg",
+        "url": "https://tharunkumar-web.github.io/VELTECH-GALLERY/examples/video%20platform/videos/saa.mp4",
         "vr": true,
         "vrRotate": 0,
         "lenght": "0:24",
