@@ -11,17 +11,17 @@
         "uploadDate": "Dec 7, 2011",
         "likes": "7.2K",
         "dislikes": "124",
-        "channel": "Tomi Clegg",
-        "channelAvatar": "./images/avatar1.gif",
+        "channel": "veltech",
+        "channelAvatar": "h",
         "channelSubscribers": "11.6K",
-        "description": "From TimeScapes: the movie.Download in 4k:<br><a href='http://NigelStanford.com/y/cs-/'>http://NigelStanford.com/y/cs-/</a><br><br>TimeScapes is the debut film from award-winning cinematographer and director Tom Lowe. TimeScapes is an exploration of the landscapes and people of the pacific southwest, through time-lapse and slow motion photography. Shot on Red Epic and Canon RAW still cameras.<br><br>Music by Nigel \"John\" Stanford:<br><a href='http://johnstanfordmusic.com'>http://johnstanfordmusic.com</a>"
-    },
+        "description": "vhyvj"
+   },
     {
         "id": 2,
         "title": "VEL TECH EVENT",
         "thumbnail": "https://tharunkumar-web.github.io/VELTECH-GALLERY/examples/video%20platform/videos/saa.jpg",
         "url": "https://tharunkumar-web.github.io/VELTECH-GALLERY/examples/video%20platform/videos/event4k.mp4",
-        "vr": true,
+        "vr": false,
         "lenght": "2:14",
         "views": "10,397,872",
         "uploadDate": "Jun 25, 2020",
