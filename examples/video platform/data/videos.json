@@ -4,7 +4,6 @@
         "title": "COLLEGE FEST",
         "thumbnail": "https://tharunkumar-web.github.io/VELTECH-GALLERY/examples/video%20platform/videos/saa.jpg",
         "url": "https://tharunkumar-web.github.io/VELTECH-GALLERY/examples/video%20platform/videos/saa.mp4",
-      
         "vr": false,
         "lenght": "2:12",
         "views": "1,623,588",
@@ -16,23 +15,55 @@
         "channelSubscribers": "11.6K",
         "description": "From Veltech: the Footage.Download in 4k:<br><a href='http://velsrscollege.com/'>http://velsrscollege.com/</a><br><br>City Campus of VEL TECH RANGA SANKU ARTS COLLEGE is located in a sprawling campus of more than 5 acres and located at the heart of the metropolitan city of Chennai. It is well connected by road, rail and air. Apart from public transport, college buses are also available for transporting the staff and students from various places in the city.<br><br>Copyrights by VELTECH:<br><a href='http://velsrscollege.com/'>http://velsrscollege.com/</a>""
    },
+  
     {
         "id": 2,
-        "title": "VEL TECH EVENT",
-        "thumbnail": "https://tharunkumar-web.github.io/VELTECH-GALLERY/examples/video%20platform/videos/saa.jpg",
-        "url": "https://tharunkumar-web.github.io/VELTECH-GALLERY/examples/video%20platform/videos/event4k.mp4",
+        "title": "VELTECH-SHORTS",
+       "thumbnail": "https://tharunkumar-web.github.io/VELTECH-GALLERY/examples/video%20platform/videos/saa.jpg",
+        "url": "https://tharunkumar-web.github.io/VELTECH-GALLERY/examples/video%20platform/videos/saa.mp4",
         "vr": false,
-          "lenght": "2:12",
-        "views": "1,623,588",
-        "uploadDate": "Dec 7, 2011",
-        "likes": "7.2K",
-        "dislikes": "124",
-      "channel": "veltech",
+        "lenght": "2:14",
+        "views": "10,397,872",
+        "uploadDate": "Jun 25, 2020",
+        "likes": "211K",
+        "dislikes": "3.4K",
+       "channel": "veltech",
         "channelAvatar": "https://tharunkumar-web.github.io/VELTECH-GALLERY/examples/video%20platform/images/videoLogo.png",
         "channelSubscribers": "11.6K",
         "description": "From Veltech: the Footage.Download in 4k:<br><a href='http://velsrscollege.com/'>http://velsrscollege.com/</a><br><br>City Campus of VEL TECH RANGA SANKU ARTS COLLEGE is located in a sprawling campus of more than 5 acres and located at the heart of the metropolitan city of Chennai. It is well connected by road, rail and air. Apart from public transport, college buses are also available for transporting the staff and students from various places in the city.<br><br>Copyrights by VELTECH:<br><a href='http://velsrscollege.com/'>http://velsrscollege.com/</a>""
-   }
-   
-   
+  },
+    {
+        "id": 3,
+        "title": "VELTECH-CULT",
+ "thumbnail": "https://tharunkumar-web.github.io/VELTECH-GALLERY/examples/video%20platform/videos/vid1.jpg",
+        "url": "https://tharunkumar-web.github.io/VELTECH-GALLERY/examples/video%20platform/videos/vid1.mp4",
+        "vr": false,
+        "lenght": "8:58",
+        "views": "3,760,754",
+        "uploadDate": "Apr 29, 2011",
+        "likes": "22K",
+        "dislikes": "795",
+        "channel": "veltech",
+        "channelAvatar": "https://tharunkumar-web.github.io/VELTECH-GALLERY/examples/video%20platform/images/videoLogo.png",
+        "channelSubscribers": "11.6K",
+        "description": "From Veltech: the Footage.Download in 4k:<br><a href='http://velsrscollege.com/'>http://velsrscollege.com/</a><br><br>City Campus of VEL TECH RANGA SANKU ARTS COLLEGE is located in a sprawling campus of more than 5 acres and located at the heart of the metropolitan city of Chennai. It is well connected by road, rail and air. Apart from public transport, college buses are also available for transporting the staff and students from various places in the city.<br><br>Copyrights by VELTECH:<br><a href='http://velsrscollege.com/'>http://velsrscollege.com/</a>""
+ },
+    {
+        "id": 4,
+        "title": "BCA-VELTECH",
+      "thumbnail": "https://tharunkumar-web.github.io/VELTECH-GALLERY/examples/video%20platform/videos/vid7.jpg",
+        "url": "https://tharunkumar-web.github.io/VELTECH-GALLERY/examples/video%20platform/videos/vid7.mp4",
+          "vr": true,
+        "vrRotate": 0,
+        "lenght": "0:24",
+        "views": "2,411,541",
+        "uploadDate": "May 2, 2017",
+        "likes": "5.1K",
+        "dislikes": "56",
+        "channel": "veltech",
+        "channelAvatar": "https://tharunkumar-web.github.io/VELTECH-GALLERY/examples/video%20platform/images/videoLogo.png",
+        "channelSubscribers": "11.6K",
+        "description": "From Veltech: the Footage.Download in 4k:<br><a href='http://velsrscollege.com/'>http://velsrscollege.com/</a><br><br>City Campus of VEL TECH RANGA SANKU ARTS COLLEGE is located in a sprawling campus of more than 5 acres and located at the heart of the metropolitan city of Chennai. It is well connected by road, rail and air. Apart from public transport, college buses are also available for transporting the staff and students from various places in the city.<br><br>Copyrights by VELTECH:<br><a href='http://velsrscollege.com/'>http://velsrscollege.com/</a>""
+    }
    
 ]
